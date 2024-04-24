@@ -7,7 +7,7 @@ hero:
   text: "理想是自由的博客"
   tagline: My great project tagline
   image:
-    src: /avatar.jpg
+    src: /avatar.png
     alt: 理想是自由
   actions:
     - theme: brand
