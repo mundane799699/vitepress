@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "理想是自由"
   text: "理想是自由的博客"
-  tagline: My great project tagline
+  tagline: 纸上得来终觉浅，绝知此事要躬行
   image:
     src: /avatar.png
     alt: 理想是自由
@@ -18,10 +18,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: 我的作品
+    details: 我的作品
+  - icon: 🛠️
+    title: 技术
+    details: 技术
+  - icon: 🌈
+    title: 其他
+    details: 其他
 ---
