@@ -9,18 +9,36 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "Examples", link: "/examples/markdown-examples" },
     ],
 
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-    ],
+    sidebar: {
+      tech: [
+        {
+          items: [
+            {
+              text: "如何用vitepress+cloudflare pages搭建博客",
+              link: "/tech/vitepress-blog",
+            },
+          ],
+        },
+      ],
+      examples: [
+        {
+          text: "Examples",
+          items: [
+            {
+              text: "Markdown Examples",
+              link: "/examples/markdown-examples",
+            },
+            {
+              text: "API Examples",
+              link: "/examples/api-examples",
+            },
+          ],
+        },
+      ],
+    },
 
     socialLinks: [{ icon: "github", link: "https://github.com/mundane799699" }],
   },

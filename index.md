@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
+      link: /examples/markdown-examples
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /examples/api-examples
 
 features:
   - icon: 📚
@@ -24,6 +24,7 @@ features:
   - icon: 🛠️
     title: 技术
     details: 技术
+    link: tech/vitepress-blog
   - icon: 🌈
     title: 其他
     details: 其他
