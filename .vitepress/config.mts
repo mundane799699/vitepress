@@ -20,6 +20,10 @@ export default defineConfig({
               text: "如何用vitepress+cloudflare pages搭建博客",
               link: "/tech/vitepress-blog",
             },
+            {
+              text: "记一次线上mysql启动失败的问题, Starting MySQL..The server quit without updating PID file ([FAILED]sql/mysql.pid).",
+              link: "/tech/mysql-error",
+            },
           ],
         },
       ],
