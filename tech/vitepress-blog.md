@@ -1,8 +1,10 @@
-# 起因
+# 如何用 vitepress+cloudflare pages 搭建博客
+
+## 起因
 
 想搭建一个自己的博客，一方面当笔记来用，一方面算是自己个人品牌的 seo。看了一圈，挑了 vitepress 这种简单方便的方案，外观也还算还看。虽然很多人都在用这个导致博客门面上会显得有点千篇一律，但其实个人博客更重在内容。
 
-# 搭建 node 环境
+## 搭建 node 环境
 
 这里不赘述了，就是下载 nodejs，然后安装。不懂的可以去 google 一下。记得配置一下国内镜像
 
@@ -10,7 +12,7 @@
 npm config set registry https://registry.npmmirror.com
 ```
 
-# 下载 vitepress
+## 下载 vitepress
 
 参考官网<https://vitepress.dev/zh/guide/getting-started>
 
@@ -43,7 +45,7 @@ favicon 制作：比特虫 <https://www.bitbug.net/>
 
 我个人的博客仓库在<https://github.com/mundane799699/vitepress>
 
-# 部署到 cloud flare pages
+## 部署到 cloud flare pages
 
 参考官网<https://vitepress.dev/zh/guide/deploy>，不过写的比较简略
 
@@ -79,7 +81,7 @@ npm run docs:build
 
 ![](https://cdn.mundane.ink/202404261633758.png)
 
-# 设置自定义域名
+## 设置自定义域名
 
 在这里设置你已经购买的域名。我是在 namesilo <https://www.namesilo.com/>买的，比较便宜，支持支付宝支付，还不错。
 
@@ -93,7 +95,7 @@ npm run docs:build
 
 [dreamfree.xyz](https://dreamfree.xyz/)
 
-# 参考
+## 参考
 
 > <https://vitepress.dev/>
 >

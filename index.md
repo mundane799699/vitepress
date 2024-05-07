@@ -24,8 +24,9 @@ features:
   - icon: 🛠️
     title: 技术
     details: 技术
-    link: tech/vitepress-blog
+    link: tech/mysql-error
   - icon: 🌈
     title: 其他
     details: 其他
+    link: other/xianyu-based-learning
 ---
