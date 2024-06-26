@@ -17,6 +17,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "electron开发之mac签名和公证",
+              link: "/tech/electron-mac-sign",
+            },
+            {
               text: "记一次线上mysql启动失败的问题",
               link: "/tech/mysql-error",
             },
