@@ -20,6 +20,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "VSCode解决终端的中文乱码问题",
+              link: "/tech/vscode-terminal-Chinese-garbled-characters",
+            },
+            {
               text: "electron开发之mac签名和公证",
               link: "/tech/electron-mac-sign",
             },
