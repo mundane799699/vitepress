@@ -24,7 +24,7 @@ features:
   - icon: 🛠️
     title: 技术
     details: 技术
-    link: tech/vscode-terminal-Chinese-garbled-characters
+    link: tech/how-to-learn-website-development
   - icon: 🌈
     title: 其他
     details: 其他

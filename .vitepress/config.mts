@@ -20,6 +20,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "(转)怎么学习开发网站",
+              link: "/tech/how-to-learn-website-development",
+            },
+            {
               text: "VSCode解决终端的中文乱码问题",
               link: "/tech/vscode-terminal-Chinese-garbled-characters",
             },
