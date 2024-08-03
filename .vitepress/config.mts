@@ -46,6 +46,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "注册谷歌云获取300刀赠金配合lobechat免费使用claude3.5(需绑卡)",
+              link: "/other/register-gcp-get-claude3.5-free",
+            },
+            {
               text: "闲鱼学习法",
               link: "/other/xianyu-based-learning",
             },
