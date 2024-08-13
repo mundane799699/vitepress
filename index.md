@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/register-gcp-get-claude3.5-free
+    link: other/note-danke-overseas-podcast
 ---

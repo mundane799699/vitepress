@@ -46,6 +46,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "【播客笔记】蛋壳的出海赚美金经历访谈",
+              link: "/other/note-danke-overseas-podcast",
+            },
+            {
               text: "注册谷歌云获取300刀赠金配合lobechat免费使用claude3.5(需绑卡)",
               link: "/other/register-gcp-get-claude3.5-free",
             },
