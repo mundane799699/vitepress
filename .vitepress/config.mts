@@ -20,6 +20,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "尝试在现有next.js项目中集成shadcn遇到的坑",
+              link: "/tech/shadcn-nextjs-integration-problems",
+            },
+            {
               text: "(转)怎么学习开发网站",
               link: "/tech/how-to-learn-website-development",
             },
