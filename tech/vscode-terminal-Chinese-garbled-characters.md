@@ -35,3 +35,25 @@
    },
    "terminal.integrated.defaultProfile.windows": "Command Prompt"
    ```
+
+## 更新
+
+升级到windows11后又乱码了，依然是这个配置但是就是不起作用。
+
+尝试过勾选beta版自动替换UTF-8可以解决这个问题，但同时也会带来更多的问题。
+
+![img](https://i-blog.csdnimg.cn/blog_migrate/d460c03c6d232997ef5cbb57462586e1.png)
+
+最终解决方案：
+
+1. win+R，输入regedit
+
+   ![img](https://i-blog.csdnimg.cn/blog_migrate/45281599c050fb963af0ca06fcf3bbd8.png)
+
+2. 注册表编辑器里打开HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor，新建一个变量命名为autorun，数据填为chcp 65001
+
+   ![img](https://i-blog.csdnimg.cn/blog_migrate/ac2cbf4feb51bbd23fd28da7fc0291b9.png)
+
+参考：
+
+> [Win11 下Visual Studio 2022编译时控制台乱码问题解决](https://blog.csdn.net/Megassi/article/details/126404128)
