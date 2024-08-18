@@ -42,17 +42,17 @@
 
 尝试过勾选beta版自动替换UTF-8可以解决这个问题，但同时也会带来更多的问题。
 
-![img](https://i-blog.csdnimg.cn/blog_migrate/d460c03c6d232997ef5cbb57462586e1.png)
+![](https://cdn.mundane.ink/202408181253618.png)
 
 最终解决方案：
 
 1. win+R，输入regedit
 
-   ![img](https://i-blog.csdnimg.cn/blog_migrate/45281599c050fb963af0ca06fcf3bbd8.png)
+![](https://cdn.mundane.ink/202408181254978.png)
 
 2. 注册表编辑器里打开HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor，新建一个变量命名为autorun，数据填为chcp 65001
 
-   ![img](https://i-blog.csdnimg.cn/blog_migrate/ac2cbf4feb51bbd23fd28da7fc0291b9.png)
+![](https://cdn.mundane.ink/202408181254313.png)
 
 参考：
 
