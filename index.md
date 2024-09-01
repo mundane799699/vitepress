@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/note-danke-overseas-podcast
+    link: other/how-to-use-semrush-to-find-opportunities
 ---

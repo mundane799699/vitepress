@@ -50,6 +50,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "出海基本功之如何使用semrush寻找关键词机会",
+              link: "/other/how-to-use-semrush-to-find-opportunities",
+            },
+            {
               text: "【播客笔记】蛋壳的出海赚美金经历访谈",
               link: "/other/note-danke-overseas-podcast",
             },
