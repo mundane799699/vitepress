@@ -22,7 +22,9 @@ semrush 注册后提供 7 天试用，但是如果用这个油管博主的优惠
 
 ![](https://cdn.mundane.ink/202408232359455.png)
 
-优惠链接是https://meticsmedia.com/semrush，在这个油管链接https://www.youtube.com/watch?v=q1lTuX0i-68的简介里
+优惠链接是<https://meticsmedia.com/semrush>
+
+在这个油管视频<https://www.youtube.com/watch?v=q1lTuX0i-68>的简介里
 
 需要注意的是要绑定信用卡，然后在 14 天到期之前记得取消，不然会扣费。可以先好好耍一耍，学习一下这个工具的使用，学习完之后直接取消就行了。注册和使用的时候不要随意改变"魔法"的 ip，我就经历了一次封号，后面邮件申诉了以后才解除。
 
