@@ -6,9 +6,11 @@
 
 而 semrush 就是一个最常用的工具，可以说是必学的工具。
 
-教程我是看的 b 站视频https://www.bilibili.com/video/BV1nb421v7gy，是从油管搬运过来的。
+教程我是看的b站视频<https://www.bilibili.com/video/BV1nb421v7gy>
 
-感谢这个 up 主https://space.bilibili.com/223357914
+是从油管搬运过来的。
+
+感谢这个up主<https://space.bilibili.com/223357914>
 
 ![](https://cdn.mundane.ink/202408232343312.jpg)
 
