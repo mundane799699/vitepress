@@ -50,6 +50,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "如何挖掘价值百万的需求",
+              link: "/other/how-to-uncover-million-dollar-needs"
+            },
+            {
               text: "出海基本功之如何使用semrush寻找关键词机会",
               link: "/other/how-to-use-semrush-to-find-opportunities",
             },

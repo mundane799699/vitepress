@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/how-to-use-semrush-to-find-opportunities
+    link: other/how-to-uncover-million-dollar-needs
 ---
