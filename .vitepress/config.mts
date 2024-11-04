@@ -50,8 +50,12 @@ export default defineConfig({
         {
           items: [
             {
+              text: "出海付费工具支付 Paddle 开通手把手教程(转)",
+              link: "/other/paddle-apply",
+            },
+            {
               text: "如何挖掘价值百万的需求",
-              link: "/other/how-to-uncover-million-dollar-needs"
+              link: "/other/how-to-uncover-million-dollar-needs",
             },
             {
               text: "出海基本功之如何使用semrush寻找关键词机会",
