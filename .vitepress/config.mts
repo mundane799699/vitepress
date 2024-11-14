@@ -50,6 +50,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "wildcard介绍、开通以及赚钱攻略",
+              link: "/other/wildcard",
+            },
+            {
               text: "出海付费工具支付 Paddle 开通手把手教程(转)",
               link: "/other/paddle-apply",
             },
