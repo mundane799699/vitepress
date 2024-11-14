@@ -2,7 +2,7 @@
 
 ## 什么是wildcard?解决了什么问题？
 
-Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VISA卡的窘境。**Wildcard** 算是为OpenAI量身定制的虚拟信用卡解决方案，同时也支持Apple Store 美区，Google Play，OpenAI API 账单，ChatGPT Plus ，Netflix，Midjourney 等订阅。
+Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VISA卡的窘境。**Wildcard** 算是为OpenAI量身定制的虚拟信用卡解决方案，同时也支持Apple Store 美区，Google Play，OpenAI API 账单，ChatGPT Plus ，Midjourney 等订阅。
 
 ### 适合的用户和场景？
 
@@ -10,7 +10,7 @@ Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VIS
 
 ## 支持的服务
 
-详情请见https://bewildcard.com/faq
+详情请见<https://bewildcard.com/faq>
 
 **ChatGPT**、Poe、Github、Perplexity、Runway、**OpenAI API**、Cursor、Facebook、Overleaf、Luma、**Claude**、Suno、X/Twitter、Microsoft、Gamma、Google Play、Midjourney、**CloudFlare**、giffgaff、Telegram、**Apple Store**、Amazon、Adobe、Notion、Vercel
 
@@ -22,7 +22,7 @@ Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VIS
 
 不支持虚拟借记卡的平台
 
-详情请见https://bewildcard.com/faq，包括以下：
+详情请见<https://bewildcard.com/faq>，包括以下：
 
 - 银行: Wise
 - 云平台: Google Cloud Platform, Oracle Cloud
@@ -32,13 +32,13 @@ Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VIS
 
 ## 公司及创始人背景
 
-公司官网，详情请见https://seo.chinaz.com/bewildcard.com
+公司官网，详情请见<https://seo.chinaz.com/bewildcard.com>
 
 ![](https://cdn.mundane.ink/202411141429789.png)
 
 创始人：志达
 
-详情请见https://web.okjike.com/u/745AF74E-3F98-43E9-901F-EED037C69F57
+详情请见<https://web.okjike.com/u/745AF74E-3F98-43E9-901F-EED037C69F57>
 
 ![](https://cdn.mundane.ink/202411141436469.png)
 
@@ -46,11 +46,11 @@ Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VIS
 
 主要包括开卡费和充值手续费
 
-- 2年的开卡费是11.99美元，使用我的邀请码注册可以减免1美元，https://bewildcard.com/i/AI4U
+- 2年的开卡费是11.99美元，使用我的邀请码注册可以减免1美元，<https://bewildcard.com/i/AI4U>
 
 - 充值手续费是3.5%
 
-详情请见https://bewildcard.com/faq
+详情请见<https://bewildcard.com/faq>
 
 ![](https://cdn.mundane.ink/202411141456485.png)
 
@@ -64,7 +64,7 @@ Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VIS
 
 - 注销不会退回年费
 
-详情请见https://bewildcard.com/pay-service
+详情请见<https://bewildcard.com/pay-service>
 
 ![](https://cdn.mundane.ink/202411141506717.png)
 
@@ -87,4 +87,4 @@ wildcard有佣金机制，邀请别人办卡能获得2美元的佣金，这也�
 - 用多少充多少，不要多充。虽然wildcard现在看起来稳定，但是谁也无法保证会不会出现跑路的情况，类似fomepay。
 - 有条件的话还是去办个护照，去比如香港或者新加坡办一张实体卡，一次性解决所有问题。相关攻略在b站或者互联网上都能搜到。
 
-最后补一句，要开卡的话别忘了使用我的邀请码：https://bewildcard.com/i/AI4U
+最后补一句，要开卡的话别忘了使用我的邀请码：<https://bewildcard.com/i/AI4U>
