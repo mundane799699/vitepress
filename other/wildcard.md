@@ -2,7 +2,7 @@
 
 ## 什么是wildcard?解决了什么问题？
 
-Wildcard，是一张虚拟卡。主要解决境外服务不支持中国境内VISA卡的窘境。**Wildcard** 算是为OpenAI量身定制的虚拟信用卡解决方案，同时也支持Apple Store 美区，Google Play，OpenAI API 账单，ChatGPT Plus ，Midjourney 等订阅。
+wildcard是一张虚拟卡，主要解决境外服务不支持中国境内VISA卡的窘境。**Wildcard** 算是为OpenAI量身定制的虚拟信用卡解决方案，同时也支持Apple Store 美区，Google Play，OpenAI API 账单，ChatGPT Plus ，Midjourney 等订阅。
 
 ### 适合的用户和场景？
 
