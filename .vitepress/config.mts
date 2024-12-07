@@ -50,6 +50,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "申请英国公司开通stripe一条龙教程",
+              link: "/other/uk-company-stripe",
+            },
+            {
               text: "wildcard介绍、开通以及赚钱攻略",
               link: "/other/wildcard",
             },

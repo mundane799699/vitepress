@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/wildcard
+    link: other/uk-company-stripe
 ---
