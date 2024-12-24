@@ -20,6 +20,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "acme.sh自动部署/更新七牛云https证书",
+              link: "/tech/acme-qiniu",
+            },
+            {
               text: "尝试在现有next.js项目中集成shadcn遇到的坑",
               link: "/tech/shadcn-nextjs-integration-problems",
             },
