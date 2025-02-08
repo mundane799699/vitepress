@@ -24,7 +24,7 @@ features:
   - icon: 🛠️
     title: 技术
     details: 技术
-    link: tech/acme-qiniu
+    link: tech/stripe-subscriptions-with-nextjs
   - icon: 🌈
     title: 其他
     details: 其他

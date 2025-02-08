@@ -20,9 +20,14 @@ export default defineConfig({
         {
           items: [
             {
+              text: "Next.js接入stripe订阅详细教程",
+              link: "/tech/stripe-subscriptions-with-nextjs",
+            },
+            {
               text: "acme.sh自动部署/更新七牛云https证书",
               link: "/tech/acme-qiniu",
             },
+
             {
               text: "尝试在现有next.js项目中集成shadcn遇到的坑",
               link: "/tech/shadcn-nextjs-integration-problems",
