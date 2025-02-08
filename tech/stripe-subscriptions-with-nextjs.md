@@ -3,13 +3,13 @@
 ## 前言
 
 
-之前申请stripe成功了，现在需要将stripe接入到我的网站中。于是我在油管找到了一个视频，并且跟着做了下来，现在把整个细节分享一下，主要是给开发者也就是程序员看的。原视频地址是https://www.youtube.com/watch?v=R9PwoQwVpPQ
+之前申请stripe成功了，现在需要将stripe接入到我的网站中。于是我在油管找到了一个视频，并且跟着做了下来，现在把整个细节分享一下，主要是给开发者也就是程序员看的。原视频地址是<https://www.youtube.com/watch?v=R9PwoQwVpPQ>
 
 另外，想开发出海产品但还没有stripe账户的朋友可以参考我这篇[【公众号】独立开发者申请英国公司开通stripe一条龙教程](https://mp.weixin.qq.com/s/eRRz6c-cmW8LoGdiVtj40g)。
 
 ## 效果演示
 
-访问https://stripe-subscriptions-jet.vercel.app
+访问<https://stripe-subscriptions-jet.vercel.app>
 
 这是我已经完成的演示网站，已经部署到了vercel。
 
@@ -34,7 +34,7 @@
 
 ## 技术栈介绍
 
-视频作者提供了代码，地址是https://github.com/burakorkmez/stripe-subscriptions
+视频作者提供了代码，地址是<https://github.com/burakorkmez/stripe-subscriptions>
 
 有两个分支，master和starter-code。master是已经改完的代码，starter-code是视频中刚开始的代码。我就直接用的master分支，把一些配置改成自己的就能直接运行了。
 
