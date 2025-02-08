@@ -3,11 +3,14 @@
 ## 前言
 
 
-之前申请stripe成功了，现在需要将stripe接入到我的网站中。于是我在油管找到了一个视频，并且跟着做了下来，现在把整个细节分享一下，主要是给开发者也就是程序员看的。原视频地址是https://www.youtube.com/watch?v=R9PwoQwVpPQ。另外，想开发出海产品但还没有stripe账户的朋友可以参考我这篇[【公众号】独立开发者申请英国公司开通stripe一条龙教程](https://mp.weixin.qq.com/s/eRRz6c-cmW8LoGdiVtj40g)。
+之前申请stripe成功了，现在需要将stripe接入到我的网站中。于是我在油管找到了一个视频，并且跟着做了下来，现在把整个细节分享一下，主要是给开发者也就是程序员看的。原视频地址是https://www.youtube.com/watch?v=R9PwoQwVpPQ
+
+另外，想开发出海产品但还没有stripe账户的朋友可以参考我这篇[【公众号】独立开发者申请英国公司开通stripe一条龙教程](https://mp.weixin.qq.com/s/eRRz6c-cmW8LoGdiVtj40g)。
 
 ## 效果演示
 
-访问https://stripe-subscriptions-jet.vercel.app。这是我已经完成的演示网站，已经部署到了vercel。
+访问https://stripe-subscriptions-jet.vercel.app
+这是我已经完成的演示网站，已经部署到了vercel。
 
 ![](https://cdn.mundane.ink/202502041618845.png)
 
@@ -30,7 +33,8 @@
 
 ## 技术栈介绍
 
-视频作者提供了代码，地址是https://github.com/burakorkmez/stripe-subscriptions。有两个分支，master和starter-code。master是已经改完的代码，starter-code是视频中刚开始的代码。我就直接用的master分支，把一些配置改成自己的就能直接运行了。
+视频作者提供了代码，地址是https://github.com/burakorkmez/stripe-subscriptions
+有两个分支，master和starter-code。master是已经改完的代码，starter-code是视频中刚开始的代码。我就直接用的master分支，把一些配置改成自己的就能直接运行了。
 
 用户认证：kinde
 
@@ -40,7 +44,7 @@
 
 ## 设置mongodb
 
-首先你需要到https://www.mongodb.com注册一个账号，这是免费的。
+首先你需要到<https://www.mongodb.com>注册一个账号，这是免费的。
 
 然后创建一个新项目。
 
@@ -110,7 +114,7 @@ npx prisma db push
 
 ## 使用kinde进行身份验证
 
-首先你需要到https://kinde.com注册一个账号，这是免费的。然后登录。
+首先你需要到<https://kinde.com>注册一个账号，这是免费的。然后登录。
 
 点击switch business
 
