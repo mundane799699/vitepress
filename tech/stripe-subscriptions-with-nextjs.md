@@ -10,6 +10,7 @@
 ## 效果演示
 
 访问https://stripe-subscriptions-jet.vercel.app
+
 这是我已经完成的演示网站，已经部署到了vercel。
 
 ![](https://cdn.mundane.ink/202502041618845.png)
@@ -34,6 +35,7 @@
 ## 技术栈介绍
 
 视频作者提供了代码，地址是https://github.com/burakorkmez/stripe-subscriptions
+
 有两个分支，master和starter-code。master是已经改完的代码，starter-code是视频中刚开始的代码。我就直接用的master分支，把一些配置改成自己的就能直接运行了。
 
 用户认证：kinde
@@ -64,9 +66,9 @@
 
 ![](https://cdn.mundane.ink/202502041803968.png)
 
-接着点击Drivers，选择node.js，复制下面的连接地址，同样粘贴到一个地方，一会儿有用。如果连接地址中的密码没有显示而是类似`mongodb+srv://zfyoung799699:<db_password>@cluster0.p9ix1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`这种的话，那就用到刚才记下的密码了，把`<db_password>`替换成刚才的密码即可。
+接着点击Drivers，选择node.js，复制下面的连接地址，同样粘贴到一个地方，一会儿有用。如果连接地址中的密码没有显示而是类似`mongodb+srv://zfyoung799699:<db_password>@xxx/?retryWrites=true&w=majority&appName=Cluster0`这种的话，那就用到刚才记下的密码了，把`<db_password>`替换成刚才的密码即可。
 
-然后需要把这个地址修改一下，在`.net/`后面加上`stripe_db`，这是数据库名称。比如原来的是`mongodb+srv://zfyoung799699:<db_password>@cluster0.p9ix1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`，改完以后就变成`mongodb+srv://zfyoung799699:<db_password>@cluster0.p9ix1.mongodb.net/stripe_db?retryWrites=true&w=majority&appName=Cluster0`
+然后需要把这个地址修改一下，在`.net/`后面加上`stripe_db`，这是数据库名称。比如原来的是`mongodb+srv://zfyoung799699:<db_password>@xxx/?retryWrites=true&w=majority&appName=Cluster0`，改完以后就变成`mongodb+srv://zfyoung799699:<db_password>@xxx/stripe_db?retryWrites=true&w=majority&appName=Cluster0`
 
 ![](https://cdn.mundane.ink/202502041804817.png)
 
@@ -89,7 +91,7 @@ npx prisma init
 这个命令将会创建一个prisma的文件夹和一个.evn的环境变量文件。将刚才的mongodb的连接地址粘贴进去：
 
 ```
-DATABASE_URL=mongodb+srv://zfyoung799699:SS7vMF4Wv3XyLiJE@cluster0.symjq.mongodb.net/stripe_db?retryWrites=true&w=majority&appName=Cluster0
+DATABASE_URL=mongodb+srv://zfyoung799699:xxx/stripe_db?retryWrites=true&w=majority&appName=Cluster0
 ```
 
 然后编辑prisma/schema.prisma这个文件，修改配置，定义两个model，User和Subscription，分别对应两张表，用户表和订阅信息表。具体的我就不写出来了，详细的看代码吧。
@@ -416,11 +418,13 @@ webhook在这里的意思，简单来说就是你定义一个接口地址，告�
 
 ## 线上地址和代码
 
-我这个项目的演示地址是https://stripe-subscriptions-jet.vercel.app
+我这个项目的演示地址是<https://stripe-subscriptions-jet.vercel.app>
 
-代码地址是https://github.com/mundane799699/stripe-subscriptions
+
+代码地址是<https://github.com/mundane799699/stripe-subscriptions>
 
 ## 结语
+
 
 做这个教程真的不易，光是截图就很麻烦。如果帮助到了您，麻烦点个小小的赞(如果是在公众号内)。
 
