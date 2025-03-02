@@ -20,6 +20,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "记一次postgresql安装问题",
+              link: "/tech/postgresql-install",
+            },
+            {
               text: "Next.js接入stripe订阅详细教程",
               link: "/tech/stripe-subscriptions-with-nextjs",
             },
