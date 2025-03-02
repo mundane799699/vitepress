@@ -37,6 +37,6 @@ https://stackoverflow.com/questions/54631443/win-10-postgresql-11-database-clust
 ![](https://cdn.mundane.ink/202503021903306.png)
 
 ## 参考
-[PostgreSQL 安装时出现数据库集群初始化失败的问题解决方案分享](https://blog.csdn.net/JueHenDaDa/article/details/144893222)
-[Win 10 Postgresql 11 database cluster initialisation failed](https://stackoverflow.com/questions/54631443/win-10-postgresql-11-database-cluster-initialisation-failed)
+[PostgreSQL 安装时出现数据库集群初始化失败的问题解决方案分享](https://blog.csdn.net/JueHenDaDa/article/details/144893222)  
+[Win 10 Postgresql 11 database cluster initialisation failed](https://stackoverflow.com/questions/54631443/win-10-postgresql-11-database-cluster-initialisation-failed)  
 [PostgreSQL安装异常：Problem running post-install step。](https://blog.csdn.net/hx7013/article/details/124126849)
