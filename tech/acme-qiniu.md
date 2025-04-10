@@ -5,7 +5,7 @@
 ```bash
 export QINIU_AK="xxxxxxxx"
 export QINIU_SK="xxxxxxxx"
-export QINIU_CDN_DOMAIN="cdn.mundane.ink"
+export QINIU_CDN_DOMAIN=".mundane.ink"
 acme.sh --deploy -d mundane.ink --deploy-hook qiniu
 ```
 ## 参考
