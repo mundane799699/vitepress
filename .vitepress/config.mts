@@ -63,6 +63,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "出海工具站挖掘需求词根整理",
+              link: "/other/tools-website-needs-words",
+            },
+            {
               text: "申请英国公司开通stripe一条龙教程",
               link: "/other/uk-company-stripe",
             },
