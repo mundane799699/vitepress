@@ -63,6 +63,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "哥飞公众号导出至notion版",
+              link: "/other/gefei-mp-export-to-notion",
+            },
+            {
               text: "出海工具站挖掘需求词根整理",
               link: "/other/tools-website-needs-words",
             },
