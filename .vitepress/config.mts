@@ -63,6 +63,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "clash for windows如何配置自定义规则",
+              link: "/other/clash-windows-rules",
+            },
+            {
               text: "哥飞公众号导出至notion版",
               link: "/other/gefei-mp-export-to-notion",
             },

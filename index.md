@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/gefei-mp-export-to-notion
+    link: other/clash-windows-rules
 ---
