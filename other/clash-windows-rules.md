@@ -7,6 +7,10 @@
 
 直接上个截图吧：
 ![](https://cdn.mundane.ink/202504192326588.png)
+
+这个节点选择可以右键点击配置文件，Edit，然后去复制下来
+![](https://cdn.mundane.ink/202504192347487.png)
+
 修改好以后在Profiles里要update一下
 
 看看效果：
