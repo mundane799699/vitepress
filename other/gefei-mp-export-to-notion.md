@@ -1,4 +1,4 @@
-# 哥飞公众号导出至notion版
+# 哥飞公众号文章合集notion版
 
 ![](https://cdn.mundane.ink/202504191805539.png)
 ![](https://cdn.mundane.ink/202504191817044.png)
