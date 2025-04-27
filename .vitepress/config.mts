@@ -20,6 +20,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "两天开发了两款浏览器插件",
+              link: "/tech/two-days-two-extensions",
+            },
+            {
               text: "记一次postgresql安装问题",
               link: "/tech/postgresql-install",
             },
