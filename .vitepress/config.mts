@@ -67,6 +67,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "聊聊五一这几天的进展",
+              link: "/other/51-progress-in-2025",
+            },
+            {
               text: "clash for windows如何配置自定义规则",
               link: "/other/clash-windows-rules",
             },
