@@ -68,7 +68,7 @@ export default defineConfig({
           items: [
             {
               text: "行动周报第1期",
-              link: "other/action-weekly-01",
+              link: "/other/action-weekly-01",
             },
             {
               text: "聊聊五一这几天的进展",
