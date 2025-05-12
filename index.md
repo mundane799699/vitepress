@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/51-progress-in-2025
+    link: other/action-weekly-01
 ---
