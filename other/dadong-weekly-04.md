@@ -1,5 +1,5 @@
 # 打洞周报第4期
-开始回顾上周进度。最近有点进入了低迷瓶颈期，不过还是回顾一下吧。
+开始回顾上周进度。最近有点进入了低迷瓶颈期，不过还是要回顾一下。
 ![](https://cdn.mundane.ink/202505262256167.png)
 
 ## bilibili无限历史记录插件的进展
@@ -72,10 +72,14 @@ https://hostinger.com.hk?REFERRALCODE=VPS666
 
 ## 最近一周刷到的精华分享
 [4大技巧，让Cursor突破500次快速请求限制](https://mp.weixin.qq.com/s/-Gh9ifeAvKmfaq07g9Kqcw)
+
 [用n8n做AI工作流驱动网站出海赚美金1：连接Supabase数据库](https://mp.weixin.qq.com/s/QPuEZ_SJ-sYV5nEPiZGGNQ)
+
 [保姆级教程｜用n8n打造一个24小时监控AI博主的工作流【免费下载】](https://mp.weixin.qq.com/s/894Wfy7E2kQyLk101sZ-VQ)
 
+
 [每天深扒一个海外赚钱AI产品(19)--每月1000刀的评论插件](https://mp.weixin.qq.com/s/FvVYQxb96EqtXgwL-WUvjg)
+
 
 [Wilson&Fish：出Wilson&Fish：出海做插件，一个收费2000刀/月；一个“睡后收入”。](https://mp.weixin.qq.com/s/FJH7WZURiA_2v2g-g3F4rA)
 
