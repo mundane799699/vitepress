@@ -20,6 +20,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "dokploy光速部署n8n并设置域名和https",
+              link: "/tech/dokploy-n8n",
+            },
+            {
               text: "两天开发了两款浏览器插件",
               link: "/tech/two-days-two-extensions",
             },

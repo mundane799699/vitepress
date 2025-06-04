@@ -24,7 +24,7 @@ features:
   - icon: 🛠️
     title: 技术
     details: 技术
-    link: tech/two-days-two-extensions
+    link: tech/dokploy-n8n
   - icon: 🌈
     title: 其他
     details: 其他
