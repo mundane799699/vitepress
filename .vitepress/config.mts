@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第5期",
+              link: "/other/dadong-weekly-05",
+            },
+            {
               text: "打洞周报第4期",
               link: "/other/dadong-weekly-04",
             },
