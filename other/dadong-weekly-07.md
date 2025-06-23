@@ -56,7 +56,7 @@ shopify app的订阅/取消订阅功能已经搞定。
 
 ![](https://cdn.mundane.ink/202506232039949.png)
 
-虽然有些原始，但是已经能够用接口调用到mcp server。效果一般，也可能是因为用的AI是deepseek。这里的mcp server是https://github.com/ChenyqThu/mcp-server-weread。用ts写的。原理就是mcp client那边起了一个express服务，并且在启动的时候连接上了mcp server。
+虽然有些原始，但是已经能够用接口调用到mcp server。效果一般，也可能是因为用的AI是deepseek。这里的mcp server是<https://github.com/ChenyqThu/mcp-server-weread>。用ts写的。原理就是mcp client那边起了一个express服务，并且在启动的时候连接上了mcp server。
 
 如果想把这套集成到readecho，可能需要再起一个服务，另外mcp server的代码也得修改，现在只直接用cookie调用微信读书的接口，后面得改成查询readecho用户已经同步到readecho数据库的数据。
 
