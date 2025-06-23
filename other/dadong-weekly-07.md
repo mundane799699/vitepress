@@ -25,6 +25,12 @@ readecho这块，是我不太感兴趣的，它的赚钱能力我也不看好，
 
 ## 最近一周刷到的精华分享
 
+[独立开发周记6月第四周](https://mp.weixin.qq.com/s/8hmG-m1fApueH_opP2HLyw)  
+[做的少赚得多的核心法则：自动化](https://mp.weixin.qq.com/s/bbdZhNjHsDBK_D5cyJQRuw)  
+[发现 从知道到做到的距离，是很多人副业不如意的距离](https://mp.weixin.qq.com/s/_cLdGzCBw3iL0Hhssaspmg)  
+【实战案例分享】从云端到低谷：我是如何抓住爆火 labubu 新词获得流量，又在一夜之间失去它  
+https://tq5n93g77p.feishu.cn/docx/GaaHdaXSSoqrVuxU0C3cz5COn9F  
+
 
 ## 结语
 
