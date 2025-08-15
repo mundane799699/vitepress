@@ -1,5 +1,6 @@
 # 一次用AI生成小说片段的尝试
 ![](https://cdn.mundane.ink/20250815105717234.png)
+![](https://cdn.mundane.ink/498bbd4adf4949bb8a5326b6d9b0ecbf~tplv-a9rns2rl98-web-preview-watermark.png)
 
 上班有点无聊，结合最近我精神内耗的经历，突然心血来潮想尝试用AI生成一个小说片段。  
 AI用的是我最熟悉的gemini，我给了一点提示，效果竟然意外的不错。  
