@@ -75,6 +75,10 @@ export default defineConfig({
               link: "/other/dadong-weekly-15",
             },
             {
+              text: "一次用AI生成小说片段的尝试",
+              link: "/other/ai-novel-generate",
+            },
+            {
               text: "打洞周报第14期",
               link: "/other/dadong-weekly-14",
             },
