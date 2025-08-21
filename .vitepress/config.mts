@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "AI生成小说片段第二弹-阴影之拥",
+              link: "/other/ai-novel-generate2",
+            },
+            {
               text: "打洞周报第15期",
               link: "/other/dadong-weekly-15",
             },
