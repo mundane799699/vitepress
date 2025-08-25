@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第16期",
+              link: "/other/dadong-weekly-16",
+            },
+            {
               text: "AI生成小说片段第二弹-阴影之拥",
               link: "/other/ai-novel-generate2",
             },
