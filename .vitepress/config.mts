@@ -71,7 +71,11 @@ export default defineConfig({
         {
           items: [
             {
-              text: "打洞周报第16期",
+              text: "打洞周报第17期-开始和秃头作斗争",
+              link: "/other/dadong-weekly-17",
+            },
+            {
+              text: "打洞周报第16期-内耗结束",
               link: "/other/dadong-weekly-16",
             },
             {
@@ -79,7 +83,7 @@ export default defineConfig({
               link: "/other/ai-novel-generate2",
             },
             {
-              text: "打洞周报第15期",
+              text: "打洞周报第15期-在星巴克修行了两天",
               link: "/other/dadong-weekly-15",
             },
             {
@@ -87,7 +91,7 @@ export default defineConfig({
               link: "/other/ai-novel-generate",
             },
             {
-              text: "打洞周报第14期",
+              text: "打洞周报第14期-内耗减弱中",
               link: "/other/dadong-weekly-14",
             },
             {
