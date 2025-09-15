@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第19期-折腾浏览器插件的一周",
+              link: "/other/dadong-weekly-19",
+            },
+            {
               text: "打洞周报第18期-心绪平静的一周",
               link: "/other/dadong-weekly-18",
             },
