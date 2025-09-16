@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "重新给自己制定了行动路线",
+              link: "/other/action-route",
+            },
+            {
               text: "打洞周报第19期-折腾浏览器插件的一周",
               link: "/other/dadong-weekly-19",
             },
