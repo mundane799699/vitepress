@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第20期-周末上了一个站但是",
+              link: "/other/dadong-weekly-20",
+            },
+            {
               text: "重新给自己制定了行动路线",
               link: "/other/action-route",
             },

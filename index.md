@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/action-route
+    link: other/dadong-weekly-20
 ---
