@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第24期-断更两周的背后",
+              link: "/other/dadong-weekly-24",
+            },
+            {
               text: "打洞周报第23期-身体不是很舒服的一周",
               link: "/other/dadong-weekly-23",
             },
