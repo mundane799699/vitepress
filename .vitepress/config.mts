@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第25期-2025年的最后一个月了",
+              link: "/other/dadong-weekly-25",
+            },
+            {
               text: "打洞周报第24期-断更两周的背后",
               link: "/other/dadong-weekly-24",
             },
