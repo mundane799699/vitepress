@@ -71,6 +71,34 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第27期-年前最后一周",
+              link: "/other/dadong-weekly-27",
+            },
+            {
+              text: "打洞周报第26期-又是一周",
+              link: "/other/dadong-weekly-26",
+            },
+            {
+              text: "打洞周报第25期-2025年的最后一个月了",
+              link: "/other/dadong-weekly-25",
+            },
+            {
+              text: "打洞周报第24期-断更两周的背后",
+              link: "/other/dadong-weekly-24",
+            },
+            {
+              text: "打洞周报第23期-身体不是很舒服的一周",
+              link: "/other/dadong-weekly-23",
+            },
+            {
+              text: "打洞周报第22期-为工作忙碌的一周",
+              link: "/other/dadong-weekly-22",
+            },
+            {
+              text: "打洞周报第21期-假期总结",
+              link: "/other/dadong-weekly-21",
+            },
+            {
               text: "打洞周报第20期-周末上了一个站但是",
               link: "/other/dadong-weekly-20",
             },
