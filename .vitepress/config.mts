@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "我的2025年终总结",
+              link: "/other/2025-summary",
+            },
+            {
               text: "打洞周报第27期-年前最后一周",
               link: "/other/dadong-weekly-27",
             },
