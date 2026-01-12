@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第28期-打了两天游戏",
+              link: "/other/dadong-weekly-28",
+            },
+            {
               text: "我的2025年终总结",
               link: "/other/2025-summary",
             },
