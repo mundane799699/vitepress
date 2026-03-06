@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "演示一波使用google下拉联想找词",
+              link: "other/google-associate-with-find-words",
+            },
+            {
               text: "打洞周报第30期-开年行动",
               link: "/other/dadong-weekly-30",
             },
