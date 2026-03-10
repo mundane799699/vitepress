@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第31期-干眼症复发",
+              link: "/other/dadong-weekly-31",
+            },
+            {
               text: "演示一波使用google下拉联想找词",
               link: "other/google-associate-with-find-words",
             },
