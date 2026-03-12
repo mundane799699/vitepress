@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "分享一波查看收入榜单的方法以及一些思考",
+              link: "/other/revenue-leaderboard",
+            },
+            {
               text: "打洞周报第31期-干眼症复发",
               link: "/other/dadong-weekly-31",
             },
