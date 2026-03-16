@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第32期-继续搞外链",
+              link: "/other/dadong-weekly-32",
+            },
+            {
               text: "分享一波查看收入榜单的方法以及一些思考",
               link: "/other/revenue-leaderboard",
             },
