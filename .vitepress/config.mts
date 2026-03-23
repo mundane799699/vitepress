@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第33期-wise被封",
+              link: "/other/dadong-weekly-33",
+            },
+            {
               text: "打洞周报第32期-继续搞外链",
               link: "/other/dadong-weekly-32",
             },
