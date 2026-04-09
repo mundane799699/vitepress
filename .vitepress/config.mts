@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "2026年4月赴港开卡不完全攻略",
+              link: "/other/hongkong-card",
+            },
+            {
               text: "打洞周报第34期-保持简单",
               link: "/other/dadong-weekly-34",
             },
