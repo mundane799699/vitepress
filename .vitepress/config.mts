@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "手把手教你使用semrush分析AI导航站出口流量发现需求",
+              link: "/other/analyse_target_traffic"
+            },
+            {
               text: "打洞周报第37期-假期归来",
               link: "/other/dadong-weekly-37"
             },
