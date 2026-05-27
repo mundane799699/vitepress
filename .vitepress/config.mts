@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "打洞周报第38期-需要一点点正反馈",
+              link: "/other/dadong-weekly-38"
+            },
+            {
               text: "手把手教你使用semrush分析AI导航站出口流量发现需求",
               link: "/other/analyse_target_traffic"
             },
