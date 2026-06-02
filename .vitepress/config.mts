@@ -71,6 +71,14 @@ export default defineConfig({
         {
           items: [
             {
+              text: "网站分析之aibabygenerator.ai",
+              link: "/other/aibabygenerator_analyse"
+            },
+            {
+              text: "seo如何卷赢大站",
+              link: "/other/seo-optimize"
+            },
+            {
               text: "打洞周报第38期-需要一点点正反馈",
               link: "/other/dadong-weekly-38"
             },
