@@ -71,6 +71,14 @@ export default defineConfig({
         {
           items: [
             {
+              text: "出海公众号、x博主推荐(1)",
+              link: "/other/account-recommend1"
+            },
+            {
+              text: "打洞周报第39期-参加哥飞线下讲座",
+              link: "/other/dadong-weekly-39"
+            },
+            {
               text: "网站分析之aibabygenerator.ai",
               link: "/other/aibabygenerator_analyse"
             },
