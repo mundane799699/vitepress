@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "四大数据网站助力挖掘出海网站需求",
+              link: "/other/site_data_websites"
+            },
+            {
               text: "出海公众号、x博主推荐(1)",
               link: "/other/account-recommend1"
             },
