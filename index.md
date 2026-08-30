@@ -28,5 +28,5 @@ features:
   - icon: 🌈
     title: 其他
     details: 其他
-    link: other/site_data_websites
+    link: other/wechat-mini-program
 ---

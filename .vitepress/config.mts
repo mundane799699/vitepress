@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "聊聊我如何开发一个抖音去水印小程序",
+              link: "/other/wechat-mini-program"
+            },
+            {
               text: "四大数据网站助力挖掘出海网站需求",
               link: "/other/site_data_websites"
             },
