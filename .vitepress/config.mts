@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "从rngdle.net聊到需求挖掘",
+              link: "/other/rngdle-net-to-niche"
+            },
+            {
               text: "聊聊我如何开发一个抖音去水印小程序",
               link: "/other/wechat-mini-program"
             },
