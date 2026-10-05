@@ -71,6 +71,10 @@ export default defineConfig({
         {
           items: [
             {
+              text: "出海挖新词网站汇总",
+              link: "/other/new_words_sites"
+            },
+            {
               text: "从rngdle.net聊到需求挖掘",
               link: "/other/rngdle-net-to-niche"
             },
